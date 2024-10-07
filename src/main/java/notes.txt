@@ -1,0 +1,7 @@
+A Program to demonstrate the how to work with MultipartFile interface:
+Programs:
+* AppConfig.java
+* AppInit.java
+* ApplicationController.java
+Notes:
+* The MultipartFile interface is used to bind the files.
